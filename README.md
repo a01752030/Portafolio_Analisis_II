@@ -11,6 +11,11 @@ La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas
 
 *  Carpetas
    * Final: Carpeta de archivos a evaluar.
+           * Modulo 1 - Big Data
+           * Modulo 2 - Deep Learning
+           * Modulo 3 - Procesamiento de lenguaje natural (NLP)
+           * Modulo 4 - Computo en la Nube
+           * Modulo 5 - Estadística
    * Retroalimentación: Carpeta con archivos preliminares anteriormente entregados para su revisión.
 
 Cada una de las carpetas de los modulos bajo la raíz de "Final", tienen un readme donde se explican las correcciones y la evolución de las mismas para que se entiendan los cambios entre cada carpeta
