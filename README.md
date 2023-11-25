@@ -11,7 +11,7 @@ La carpeta raíz de este repositorio contiene los siguientes archivos y carpetas
 
 *  Carpetas
    * Final: Carpeta de archivos a evaluar.
-     * Modulo 1 - Big Data: Entrega; "Instalación de Spark en AWS", "Creación de usuario en Linux", "Reto Datos" y "Reto Privacidad y Seguridad de los Datos"
+     * Modulo 1 - Big Data: Entrega; "Instalación de Spark en AWS", "Creación de usuario en Linux"
      * Modulo 2 - Deep Learning: Entrega; Momento de Retroalimentación Individual: Implementación de un modelo de Deep Learning
      * Modulo 3 - Procesamiento de lenguaje natural (NLP): Entrega; "Proyecto NLP: Síntesis y transcripción de un archivo de audio"
      * Modulo 4 - Computo en la Nube: Entrega; "Cloud Migration"
